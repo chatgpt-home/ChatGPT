@@ -26,8 +26,8 @@
 
 | 网站 | 支持功能 | 网址 | 
 |------|----------|------|
-| **一下 AI** | 支持GPT-4.0、GPT o1、AI绘画 | [https://www.yixiaai.com](https://www.yixiaai.com) |
-| **Lify AI** | 支持GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | [https://chat.lify.vip](https://chat.lify.vip) |
+| **一下 AI** | 支持GPT-4.0、GPT o1、Grok 3、Claude、AI绘画 | [https://www.yixiaai.com](https://www.yixiaai.com) |
+| **Lify AI** | 支持GPT-4.0、GPT4.0 turbo、GPT o1、Grok 3、Claude、AI PPT、插件 | [https://chat.lify.vip](https://chat.lify.vip) |
 | **AI智慧岛**（电脑客户端） | 全面功能支持 | [下载链接](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi) |
 | **ChatGPT 中文版（Edge浏览器插件）** | 浏览器直接使用 | [Edge插件](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil) |
 | **ChatGPT 中文版（Chrome浏览器插件）** | 浏览器直接使用 | [Chrome插件](https://chromewebstore.google.com/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88ai-%E6%99%BA%E6%85%A7%E5%B2%9B%EF%BC%89/jffjfhngfgcglmjjpakgekefpegmhkll?hl=zh-CN&utm_source=ext_sidebar) |
