@@ -1,5 +1,5 @@
 # **ChatGPT 官方 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1，无需翻墙）**
->更新时间: 2025-05-19
+>更新时间: 2025-07-27
 
 ## **1. 项目简介**
 本文将指导您全面体验 ChatGPT 中文版，无需翻墙，支持 GPT-4 和中文多功能应用！
@@ -27,7 +27,7 @@
 | 网站 | 支持功能 | 网址 | 
 |------|----------|------|
 | **一下 AI** | 支持GPT-4.0、GPT o1、Grok 3、Claude、AI绘画 | [https://xsimplechat.com](https://xsimplechat.com) |
-| **Lify AI** | 支持GPT-4.0、GPT4.0 turbo、GPT o1、Grok 3、Claude、AI PPT、插件 | [https://chat.lanjing.pro](https://chat.lanjing.pro) |
+| **Lify AI** | 支持GPT-4.0、GPT4.0 turbo、GPT o1、Grok 3、Claude、AI PPT、插件 | [https://chat.lanjingai.org](https://chat.lanjingai.org) |
 | **蓝鲸AI指南** | 支持GPT全系列模型 | [https://guide1.lanjing.ai](https://guide1.lanjing.ai) |
 
 ## **4. 详细比较：各网站功能与支持**
