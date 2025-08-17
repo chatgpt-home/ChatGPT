@@ -1,5 +1,5 @@
-# **ChatGPT 官方 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1，无需翻墙）【2025年8月】**
->更新时间: 2025-08-03
+# **ChatGPT 官方 中文版：国内访问指南（支持GPT-5、GPT-4、GPT-4o、GPT-o1，无需翻墙）【2025年8月】**
+>更新时间: 2025-08-18
 
 ## **1. 项目简介**
 本文将指导您全面体验 ChatGPT 中文版，无需翻墙，支持 GPT-4 和中文多功能应用！
@@ -26,15 +26,15 @@
 
 | 网站 | 支持功能 | 网址 | 
 |------|----------|------|
-| **一下 AI** | 支持GPT-4.0、GPT o1、Grok 3、Claude、AI绘画 | [https://xsimplechat.com](https://xsimplechat.com) |
-| **Lify AI** | 支持GPT-4.0、GPT4.0 turbo、GPT o1、Grok 3、Claude、AI PPT、插件 | [https://chat.lanjingai.org](https://chat.lanjingai.org) |
+| **一下 AI** | 支持GPT-5、GPT-4.0、GPT o1、Grok 3、Claude、AI绘画 | [https://xsimplechat.com](https://xsimplechat.com) |
+| **Lify AI** | 支持GPT-5、GPT-4.0、GPT4.0 turbo、GPT o1、Grok 3、Claude、AI PPT、插件 | [https://chat.lanjingai.org](https://chat.lanjingai.org) |
 | **蓝鲸AI指南** | 支持GPT全系列模型 | [https://guide1.lanjing.ai](https://guide1.lanjing.ai) |
 
 ## **4. 详细比较：各网站功能与支持**
 
-### **GPT-4支持情况**
-1. **一下AI**：全面支持GPT-4.0和GPT o1。
-2. **Lify ai**：额外提供GPT4.0 turbo模式。
+### **GPT-5支持情况**
+1. **一下AI**：全面支持GPT-5和GPT o1。
+2. **Lify ai**：额外提供GPT 5模式。
 3. **AI智慧岛**：客户端提供最高性能的支持。
 
 ### **绘画与PPT生成等附加功能**
